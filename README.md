@@ -19,5 +19,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enzomtpyt&theme=dark" alt="enzomtpyt" /></p>
 ```md
-![enzomtpYT's github stats](https://github-readme-stats.vercel.app/api?username=enzomtpYT&count_private=false&show_icons=true&include_all_commits=true&bg_color=30,5443e9,904e95&title_color=fff&text_color=fff&icon_color=79ff97)
+
+```
+```md
+[![enzomtpYT's github stats](https://github-readme-stats.vercel.app/api?username=enzomtpYT&count_private=false&show_icons=true&include_all_commits=true&bg_color=30,5443e9,904e95&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/enzomtpYT)
 ```
