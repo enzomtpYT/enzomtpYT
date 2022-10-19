@@ -1,5 +1,5 @@
 <h1 align="center">Hello im enzomtp !</h1>
-<h3 align="center">Im a frenchie dev of 17 yo im in high school</h3>
+<h3 align="center">Im a frenchie dev of 18 yo im in high school</h3>
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=enzomtpyt&label=Profile%20views&color=0e75b6&style=flat" alt="enzomtpyt" /> 
@@ -10,7 +10,7 @@
 
 - If you want to contact me i have a discord ! : **https://discord.gg/xkRPSg4**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
     <a href="https://twitter.com/enzojore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="enzojore" height="30" width="40" /></a>
     <a href="https://www.youtube.com/c/enzomtp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="enzomtp" height="30" width="40" /></a>
