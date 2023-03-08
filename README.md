@@ -6,7 +6,7 @@
 </p>
 
 - 🤖 I work on a bot for pronote (A website that shows you yours marks)
-[Python-Pronote-Bot](https://github.com/enzomtpYT/Python-Pronote-Bot)
+[Pronote_Bot-NodeJS](https://github.com/enzomtpYT/Pronote_Bot-NodeJS)
 
 - If you want to contact me i have a discord ! : **https://discord.gg/xkRPSg4**
 
