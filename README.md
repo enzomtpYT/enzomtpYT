@@ -17,6 +17,8 @@
     <a href="https://discord.gg/xkRPSg4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xkRPSg4" height="30" width="40" /></a>
 </p>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/221273966457782283)](https://discord.com/users/221273966457782283)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -53,9 +55,9 @@
     </a>
 </p>
 
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enzomtpyt&theme=dark"alt="enzomtpyt" />
-</p>
+<h3 align="left">Some infos on my Github:</h3>
 
-[![enzomtpYT's github
-stats](https://github-readme-stats.vercel.app/api?username=enzomtpYT&count_private=false&show_icons=true&include_all_commits=true&bg_color=30,5443e9,904e95&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/enzomtpYT)
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enzomtpyt&theme=dark" alt="enzomtpYT's Github Streak"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=enzomtpYT&count_private=false&show_icons=true&include_all_commits=true&bg_color=30,5443e9,904e95&title_color=fff&text_color=fff&icon_color=79ff97" alt="enzomtpYT's Github Stats"/>
+</p>
