@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=enzomtpyt&label=Profile%20views&color=0e75b6&style=flat" alt="enzomtpyt" /> 
 </p>
 
-- I used work on a bot for pronote (A website that shows you yours marks)
+- I used to work on a discord bot for pronote (A website that shows you yours marks)
 [Pronote_Bot-NodeJS](https://github.com/enzomtpYT/Pronote_Bot-NodeJS) 🤖
 
 - I am now learning IT/Programmation at EPSI School in france
