@@ -1,5 +1,5 @@
 <h1 align="center">Hello im enzomtp !</h1>
-<h3 align="center">Im a frenchie dev of 19 yo im in high school</h3>
+<h3 align="center">Im a 19yo frenchie dev im in EPSI Montpellier (France) IT School</h3>
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=enzomtpyt&label=Profile%20views&color=0e75b6&style=flat" alt="enzomtpyt" /> 
