@@ -63,6 +63,3 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enzomtpyt&theme=dark" alt="enzomtpYT's Github Streak"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=enzomtpYT&count_private=false&show_icons=true&include_all_commits=true&bg_color=30,5443e9,904e95&title_color=fff&text_color=fff&icon_color=79ff97" alt="enzomtpYT's Github Stats"/>
 </p>
-
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; background-size: cover; width: 100%; opacity: 1; background: url('https://raw.githubusercontent.com/enzomtpYT/enzomtpYT/main/back.png');]{x0000}$}
