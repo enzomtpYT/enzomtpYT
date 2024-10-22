@@ -15,7 +15,6 @@
 <h3 align="left">Contact me:</h3>
 <p align="left">
     <a href="https://twitter.com/enzomtpWasTaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="enzomtpWasTaken" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/c/enzomtp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="enzomtp" height="30" width="40" /></a>
     <a href="https://discord.gg/xkRPSg4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xkRPSg4" height="30" width="40" /></a>
 </p>
 
